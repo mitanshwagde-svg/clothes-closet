@@ -4,7 +4,7 @@ import { ClosetContext } from "../../context/ClosetContext";
 const cargos = [
   { id: 401, name: "Beige Cargos", image: "/products/cargos/cargo1.png" },
   { id: 402, name: "Black Cargos", image: "/products/cargos/cargo2.png" },
-  { id: 403, name: "Green Cargos", image: "/products/cargos/cargo3.png      " },
+  { id: 403, name: "Green Cargos", image: "/products/cargos/cargo3.png" },
 ];
 
 export default function Cargos() {
