@@ -1,7 +1,7 @@
 ﻿import TShirt from "./pages/categories/TShirt.jsx";
 import Shirts from "./pages/categories/shirts.jsx";
-import Hoodies from "./pages/categories/Hoodies";
-import Cargos from "./pages/categories/Cargos";
+import Hoodies from "./pages/categories/Hoodies.jsx";
+import Cargos from "./pages/categories/Cargos.jsx";
 import Shop from "./pages/Shop.jsx";
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
