@@ -7,3 +7,5 @@ Features:
 - Closet Management
 - Category Browsing
 - Price Filters
+- Able to choose what suits you
+Project status: Active Development
